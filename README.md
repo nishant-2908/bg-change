@@ -10,6 +10,8 @@
 ## Description
 - It is one of my random projects in HTML, where you get a button that changes the background color of the body on a random basis.
 
+- View the deployment [here](https://nishant-2908.github.io/bgChange/).
+
 ## Installation
 Instructions on how to install and set up the project.
 
